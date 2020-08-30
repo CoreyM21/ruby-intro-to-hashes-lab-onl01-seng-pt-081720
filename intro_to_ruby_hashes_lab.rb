@@ -1,11 +1,10 @@
 def new_hash
-  epic_tragedy ={}
-
+  epic_tragedy = {}
 end
 
 def actor
-
-end
+  actor = {:name "Dwayne The Rock Johnson"}
+  end
 
 def monopoly
 	monopoly = {}
